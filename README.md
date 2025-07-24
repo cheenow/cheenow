@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chino Ilagan</h1>
+<h1 align="center">Hi 👋, I'm Chino</h1>
 <h3 align="center">I'm an aspiring data analyst located in Toronto, ON.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheenow&label=Profile%20views&color=0e75b6&style=flat" alt="cheenow" /> </p>
