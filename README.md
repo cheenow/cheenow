@@ -61,3 +61,11 @@ I combine **data, creativity, and teamwork** to deliver results that matter. Iâ€
 - **Email:** cuilagan09@gmail.com  
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 - **GitHub:** [linkedin.com/in/chino-ilagan-283129129/](https://www.linkedin.com/in/chino-ilagan-283129129/)
+
+---
+
+## Projects
+
+- [Future-of-Pricing-in-Real-Estate](https://github.com/cheenow/Future-of-Pricing-in-Real-Estate)
+  - Predictive analytics pipeline for housing prices using Python. Includes data cleaning, feature engineering, variable selection (forward/backward, RFE, LASSO, Random Forest), PCA, linear regression, KNN classification, and model evaluation to identify top predictors and optimize predictions.
+
