@@ -1,22 +1,63 @@
-<h1 align="center">Hi 👋, I'm Chino</h1>
-<h3 align="center">I'm an aspiring data analyst located in Toronto, ON.</h3>
+# 👋 Hi, I’m Chino.  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cheenow&label=Profile%20views&color=0e75b6&style=flat" alt="cheenow" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cheenow" alt="cheenow" /></a> </p>
+I’m passionate about helping businesses grow through smart strategies, great customer experiences, and data-driven decisions. I enjoy turning insights into real results and collaborating with teams to create meaningful impact for both companies and their customers.  
 
-- 🌱 I’m currently learning **Business Insights and Analytics at Humber Polytechnic**
+---
 
-- 📫 How to reach me **cuilagan09@gmail.com**
+## 🚀 Career Highlights  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/chinoilagan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chinoilagan" height="30" width="40" /></a>
-<a href="https://instagram.com/cheenow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cheenow" height="30" width="40" /></a>
-</p>
+**GCash**  
+- Activated 60% of Globe Postpaid’s 1.8M customers, increasing monthly sales by 12%.  
+- Developed B2B marketing solutions, generating strong additional revenue.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**KKday**  
+- Senior Business Development Manager leading supplier partnerships.  
+- Boosted annual sales by 20% through product mix optimization and targeted promotions.  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cheenow&show_icons=true&locale=en&layout=compact" alt="cheenow" /></p>
+**Travelbook.ph**  
+- Launched “Pay at the Hotel” feature, driving a 50% yearly increase in gross sales.  
+- Built and managed affiliate networks to expand into new markets.  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cheenow&show_icons=true&locale=en" alt="cheenow" /></p>
+---
+
+## 🎯 What I Do Best  
+
+- **Marketing & Business Development:** Creating and executing strategies based on customer and market insights.  
+- **Data-Driven Growth:** Turning analytics into clear actions that boost sales and performance.  
+- **Team Collaboration:** Working closely with cross-functional teams to reach goals efficiently.  
+- **SaaS & B2B Sales:** Selling tech solutions like Rezio (booking management SaaS) to streamline operations.  
+
+---
+
+## 💡 My Approach  
+
+I combine **data, creativity, and teamwork** to deliver results that matter. I’m always eager to learn, grow, and connect with people who share a passion for innovation and customer success.  
+
+> Let’s create something impactful—one data-driven decision at a time.  
+
+---
+
+## 🛠 Technical Skills  
+
+**Data Management & Databases**  
+- MySQL | PostgreSQL | Databricks  
+
+**Data Analytics & Programming**  
+- R (RStudio) | Python (Jupyter, PySpark) | SQL  
+
+**Business & Marketing Analytics Tools**  
+- Power BI | Excel | SPSS  
+
+**Data Visualization**  
+- Power BI | IBM SPSS | IBM Cognos Analytics  
+
+**Collaboration & Version Control**  
+- Git
+
+---
+
+## 📫 Contact Me  
+
+- **Email:** cuilagan09@gmail.com  
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- **GitHub:** [linkedin.com/in/chino-ilagan-283129129/](https://www.linkedin.com/in/chino-ilagan-283129129/)
