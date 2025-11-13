@@ -66,6 +66,6 @@ I combine **data, creativity, and teamwork** to deliver results that matter. Iâ€
 
 ## Projects
 
-- [Future-of-Pricing-in-Real-Estate](https://github.com/cheenow/Future-of-Pricing-in-Real-Estate)
+- **[Future-of-Pricing-in-Real-Estate](https://github.com/cheenow/Future-of-Pricing-in-Real-Estate)**
   - Predictive analytics pipeline for housing prices using Python. Includes data cleaning, feature engineering, variable selection (forward/backward, RFE, LASSO, Random Forest), PCA, linear regression, KNN classification, and model evaluation to identify top predictors and optimize predictions.
 
