@@ -68,4 +68,6 @@ I combine **data, creativity, and teamwork** to deliver results that matter. Iâ€
 
 - **[Future-of-Pricing-in-Real-Estate](https://github.com/cheenow/Future-of-Pricing-in-Real-Estate)**
   - A data-driven analysis of real estate pricing trends using Python and Jupyter Notebook.
+- **[Canada Labour Market Dynamics (October 2025-2024)](https://github.com/cheenow/Labour-Market-Dynamics-in-Canada-2024-2025-.git)**
+  - A data-driven analysis of Canadaâ€™s provincial labour market trends and employment opportunities using R and tidyverse.
 
