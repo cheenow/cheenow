@@ -59,8 +59,8 @@ I combine **data, creativity, and teamwork** to deliver results that matter. Iâ€
 ## ðŸ“« Contact Me  
 
 - **Email:** cuilagan09@gmail.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **GitHub:** [linkedin.com/in/chino-ilagan-283129129/](https://www.linkedin.com/in/chino-ilagan-283129129/)
+- **LinkedIn:** [linkedin.com/in/chino-ilagan-283129129/](https://www.linkedin.com/in/chino-ilagan-283129129/)
+- **GitHub:** [github.com/cheenow/cheenow](https://github.com/cheenow/cheenow)
 
 ---
 
