@@ -43,10 +43,7 @@ I combine **data, creativity, and teamwork** to deliver results that matter. Iâ€
 - MySQL | PostgreSQL | Databricks  
 
 **Data Analytics & Programming**  
-- R (RStudio) | Python (Jupyter, PySpark) | SQL  
-
-**Business & Marketing Analytics Tools**  
-- Power BI | Excel | SPSS  
+- R (RStudio) | Python (Jupyter, PySpark) | SQL | Excel | SPSS  
 
 **Data Visualization**  
 - Power BI | IBM SPSS | IBM Cognos Analytics  
