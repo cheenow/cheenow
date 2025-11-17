@@ -4,7 +4,7 @@ I’m passionate about helping businesses grow through smart strategies, great c
 
 ---
 
-## 🚀 Career Highlights  
+## Career Highlights  
 
 **GCash**  
 - Activated 60% of Globe Postpaid’s 1.8M customers, increasing monthly sales by 12%.  
@@ -20,7 +20,7 @@ I’m passionate about helping businesses grow through smart strategies, great c
 
 ---
 
-## 🎯 What I Do Best  
+## What I Do Best  
 
 - **Marketing & Business Development:** Creating and executing strategies based on customer and market insights.  
 - **Data-Driven Growth:** Turning analytics into clear actions that boost sales and performance.  
@@ -29,7 +29,7 @@ I’m passionate about helping businesses grow through smart strategies, great c
 
 ---
 
-## 💡 My Approach  
+## My Approach  
 
 I combine **data, creativity, and teamwork** to deliver results that matter. I’m always eager to learn, grow, and connect with people who share a passion for innovation and customer success.  
 
@@ -37,7 +37,7 @@ I combine **data, creativity, and teamwork** to deliver results that matter. I�
 
 ---
 
-## 🛠 Technical Skills  
+## Technical Skills  
 
 **Data Management & Databases**  
 - MySQL | PostgreSQL | Databricks  
@@ -56,7 +56,7 @@ I combine **data, creativity, and teamwork** to deliver results that matter. I�
 
 ---
 
-## 📫 Contact Me  
+## Contact Me  
 
 - **Email:** cuilagan09@gmail.com  
 - **LinkedIn:** [linkedin.com/in/chino-ilagan-283129129/](https://www.linkedin.com/in/chino-ilagan-283129129/)
