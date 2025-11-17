@@ -4,22 +4,6 @@ I’m passionate about helping businesses grow through smart strategies, great c
 
 ---
 
-## Career Highlights  
-
-**GCash**  
-- Activated 60% of Globe Postpaid’s 1.8M customers, increasing monthly sales by 12%.  
-- Developed B2B marketing solutions, generating strong additional revenue.  
-
-**KKday**  
-- Senior Business Development Manager leading supplier partnerships.  
-- Boosted annual sales by 20% through product mix optimization and targeted promotions.  
-
-**Travelbook.ph**  
-- Launched “Pay at the Hotel” feature, driving a 50% yearly increase in gross sales.  
-- Built and managed affiliate networks to expand into new markets.  
-
----
-
 ## What I Do Best  
 
 - **Marketing & Business Development:** Creating and executing strategies based on customer and market insights.  
