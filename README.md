@@ -57,6 +57,6 @@ I combine **data, creativity, and teamwork** to deliver results that matter. Iâ€
   - A data-driven analysis of Canadaâ€™s provincial labour market trends and employment opportunities using R and tidyverse.
 - **[Canada Interest Rate Trends](https://github.com/cheenow/Canada-Interest-Rate-Trends.git)**
   - A data-driven analysis of Canadian interest rate patterns using R and tidyverse.
-- **[SQL Fundamentals Project](https://github.com/cheenow/SQL-Fundamentals.git)
+- **[SQL Fundamentals Project](https://github.com/cheenow/SQL-Fundamentals.git)**
   - A hands-on collection of SQL exercises focused on database creation, data insertion, querying, and relational modeling using MySQL.
 
