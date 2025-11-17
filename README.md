@@ -8,8 +8,7 @@ I’m passionate about helping businesses grow through smart strategies, great c
 
 - **Marketing & Business Development:** Creating and executing strategies based on customer and market insights.  
 - **Data-Driven Growth:** Turning analytics into clear actions that boost sales and performance.  
-- **Team Collaboration:** Working closely with cross-functional teams to reach goals efficiently.  
-- **SaaS & B2B Sales:** Selling tech solutions like Rezio (booking management SaaS) to streamline operations.  
+- **Team Collaboration:** Working closely with cross-functional teams to reach goals efficiently.   
 
 ---
 
