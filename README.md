@@ -41,11 +41,12 @@ I combine **data, creativity, and teamwork** to deliver results that matter. Iâ€
 
 ---
 
-## Contact Me  
+## Contact Me
 
-- **Email:** cuilagan09@gmail.com  
-- **LinkedIn:** [linkedin.com/in/chino-ilagan-283129129/](https://www.linkedin.com/in/chino-ilagan-283129129/)
-- **GitHub:** [github.com/cheenow/cheenow](https://github.com/cheenow/cheenow)
+- **Email:** [cuilagan09@gmail.com](mailto:cuilagan09@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/chino-ilagan-283129129](https://www.linkedin.com/in/chino-ilagan-283129129/)  
+- **GitHub:** [github.com/cheenow](https://github.com/cheenow)  
+- **Marketing Portfolio:** [Explore My Marketing Work](https://clavichord-parakeet-d5pg.squarespace.com/)
 
 ---
 
