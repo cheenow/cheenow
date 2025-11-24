@@ -4,19 +4,6 @@ I’m passionate about helping businesses grow through smart strategies and data
 
 ---
 
-## What I Do Best  
-
-- **Marketing & Business Development:**
-I design and execute strategies that align with customer needs and market trends. By analyzing competitors and consumer behavior, I uncover growth opportunities and launch campaigns that deliver measurable results.
-  
-- **Data-Driven Growth:**
-I leverage data and analytics to guide decisions that improve performance. From boosting sales to streamlining processes, I turn numbers into actionable insights that drive efficiency and growth.
- 
-- **Team Collaboration:**
-I foster strong communication and collaboration across teams, ensuring everyone’s efforts are aligned. By sharing expertise and working together, I help achieve business goals faster and more effectively.
-
----
-
 ## Technical Skills  
 
 **Data Management & Databases**  
@@ -43,7 +30,7 @@ I foster strong communication and collaboration across teams, ensuring everyone�
   - A data-driven analysis of Canadian interest rate patterns using R and tidyverse.
 - **[SQL Fundamentals Project](https://github.com/cheenow/SQL-Fundamentals.git)**
   - A hands-on collection of SQL exercises focused on database creation, data insertion, querying, and relational modeling using MySQL.
-
+ 
 ---
 
 ## Contact Me
