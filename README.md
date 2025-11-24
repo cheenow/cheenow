@@ -17,14 +17,6 @@ I foster strong communication and collaboration across teams, ensuring everyoneâ
 
 ---
 
-## My Approach  
-
-I combine **data, creativity, and teamwork** to deliver results that matter. Iâ€™m always eager to learn, grow, and connect with people who share a passion for innovation and customer success.  
-
-> Letâ€™s create something impactfulâ€”one data-driven decision at a time.  
-
----
-
 ## Technical Skills  
 
 **Data Management & Databases**  
@@ -41,15 +33,6 @@ I combine **data, creativity, and teamwork** to deliver results that matter. Iâ€
 
 ---
 
-## Contact Me
-
-- **Email:** [cuilagan09@gmail.com](mailto:cuilagan09@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/chino-ilagan-283129129](https://www.linkedin.com/in/chino-ilagan-283129129/)  
-- **GitHub:** [github.com/cheenow](https://github.com/cheenow)  
-- **Marketing Portfolio:** [Explore My Marketing Work](https://clavichord-parakeet-d5pg.squarespace.com/)
-
----
-
 ## Projects
 
 - **[Future-of-Pricing-in-Real-Estate](https://github.com/cheenow/Future-of-Pricing-in-Real-Estate)**
@@ -60,4 +43,14 @@ I combine **data, creativity, and teamwork** to deliver results that matter. Iâ€
   - A data-driven analysis of Canadian interest rate patterns using R and tidyverse.
 - **[SQL Fundamentals Project](https://github.com/cheenow/SQL-Fundamentals.git)**
   - A hands-on collection of SQL exercises focused on database creation, data insertion, querying, and relational modeling using MySQL.
+
+---
+
+## Contact Me
+
+- **Email:** [cuilagan09@gmail.com](mailto:cuilagan09@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/chino-ilagan-283129129](https://www.linkedin.com/in/chino-ilagan-283129129/)  
+- **GitHub:** [github.com/cheenow](https://github.com/cheenow)  
+- **Marketing Portfolio:** [Explore My Marketing Work](https://clavichord-parakeet-d5pg.squarespace.com/)
+
 
